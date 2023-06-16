@@ -1,0 +1,10 @@
+Microsoft HTML Help Compiler 4.74.8702
+
+Compiling c:\Users\Temporal\OneDrive\05.Proyectos\01.MacroCibertec\MacroCibertec.Org\Ayuda\Ayuda.chm
+
+HHC5013: Error: URL reference in the TOC cannot be resolved: "UDF_XConcatenar.htm".
+HHC5013: Error: URL reference in the TOC cannot be resolved: "Cambiar_Tabla_Formato_Matricial_BD.htm".
+HHC5013: Error: URL reference in the TOC cannot be resolved: "Split_Tabla.htm".
+
+
+The following files were not compiled:

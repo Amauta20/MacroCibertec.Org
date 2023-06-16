@@ -1,0 +1,26 @@
+[OPTIONS]
+Compatibility=1.1 or later
+Compiled file=Ayuda.chm
+Contents file=Table of Contents.hhc
+Default Window=Ayuda
+Default topic=Titulo.htm
+Display compile progress=No
+Index file=Index.hhk
+Language=0x280a Español (Perú)
+Title=CIBERTEC.ORG
+
+[WINDOWS]
+Ayuda=,"Table of Contents.hhc","Index.hhk","Titulo.htm",,,,,,0x2120,,0x3006,[271,372,999,749],,,,,,,0
+
+
+[FILES]
+Autor.htm
+Ayuda.htm
+F-XConcatenar.htm
+LICENSE.htm
+Presentacion.htm
+T-CambiarSigno.htm
+Titulo.htm
+
+[INFOTYPES]
+
