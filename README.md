@@ -1,6 +1,9 @@
 # MacroCibertec.Org
 Proyecto de desarrollo de automatización con VBA para Excel.
 
+## Instalador
+Para instalar descargar el archivo Instalador-Cibertec.zip y descomprimir donde usted desee y ejecutar archivo xlsm.
+
 ## CambiarSigno
 ### Descripción de macro
 Esta macro permite cambiar el signo de los numeros que son seleccionados.
